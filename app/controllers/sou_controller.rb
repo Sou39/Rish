@@ -1,0 +1,2 @@
+class SouController < ApplicationController
+end
